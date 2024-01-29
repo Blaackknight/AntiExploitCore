@@ -1,0 +1,6 @@
+data:
+    bck:
+        slotCounter:
+            item: stone
+    chat:
+        s: "?"
